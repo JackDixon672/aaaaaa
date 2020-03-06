@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryan\\Source\\Repos\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj": {}
+    "C:\\Users\\Jack\\Source\\Repos\\aaaaaa\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryan\\Source\\Repos\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj": {
+    "C:\\Users\\Jack\\Source\\Repos\\aaaaaa\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryan\\Source\\Repos\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj",
+        "projectUniqueName": "C:\\Users\\Jack\\Source\\Repos\\aaaaaa\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj",
         "projectName": "Assessment one - AAC",
-        "projectPath": "C:\\Users\\Ryan\\Source\\Repos\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj",
-        "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryan\\Source\\Repos\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\obj\\",
+        "projectPath": "C:\\Users\\Jack\\Source\\Repos\\aaaaaa\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\Assessment one - AAC.csproj",
+        "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jack\\Source\\Repos\\aaaaaa\\AssignmentOneAAC\\Assessment one - AAC\\Assessment one - AAC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
